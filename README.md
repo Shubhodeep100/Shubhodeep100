@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript,Next.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kappa-virid-60.vercel.app/](https://portfolio-kappa-virid-60.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kappa-virid-60.vercel.app/)
 
 - 💬 Ask me about **React.JS, Next.js**
 
