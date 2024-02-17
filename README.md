@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **banerjeeshubho98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/15V8WORYkD9Im1qvdSbWqxWaST41BzRmf?usp=sharing](https://drive.google.com/drive/folders/15V8WORYkD9Im1qvdSbWqxWaST41BzRmf?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/15V8WORYkD9Im1qvdSbWqxWaST41BzRmf?usp=sharing)
 
 - ⚡ Fun fact **I'm equally professional and funny at the same time.**
 
