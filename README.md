@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a Full Stack projects.
 
-- 🌱 I’m currently learning **TypeScript,Next.js**
+- 🌱 I’m currently mastering **TypeScript,Next.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kappa-virid-60.vercel.app/)
 
