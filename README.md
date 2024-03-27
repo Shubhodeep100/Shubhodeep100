@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/15V8WORYkD9Im1qvdSbWqxWaST41BzRmf?usp=sharing)
 
-- ⚡ Fun fact **I'm equally professional and funny at the same time.**
+- ⚡ Fun fact **I'm equally professional and funny at the same time 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
