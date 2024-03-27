@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhodeep100" alt="shubhodeep100" /></a> </p>
 
-- 🔭 I’m currently working on a Full Stack projects.
+- 🔭 I’m currently working on Full Stack projects.
 
 - 🌱 I’m currently mastering **TypeScript,Next.js**
 
