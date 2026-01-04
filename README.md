@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently mastering **TypeScript, Next.js, REDUX & GraphQL**
 
-- 👨‍💻 All of my projects are available at [Portfolio]([https://portfolio-kappa-virid-60.vercel.app/](https://portfolio-2025-one-self.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kappa-virid-60.vercel.app/](https://portfolio-2025-one-self.vercel.app/))
 
 - 💬 Ask me about **React.JS, Next.js**
 
 - 📫 How to reach me **banerjeeshubho98@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/drive/folders/15V8WORYkD9Im1qvdSbWqxWaST41BzRmf?usp=sharing](https://drive.google.com/file/d/13C2GBD3DB3ZPH_gt0f0Y89jGVvQxiquN/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/15V8WORYkD9Im1qvdSbWqxWaST41BzRmf?usp=sharing](https://drive.google.com/file/d/13C2GBD3DB3ZPH_gt0f0Y89jGVvQxiquN/view?usp=sharing))
 
 - ⚡ Fun fact **I love sharing my work on LinkedIn**
 
