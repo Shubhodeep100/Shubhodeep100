@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React.JS, Next.js**
 
-- 📫 How to reach me **banerjeeshubho98@gmail.com**
+- 📫 How to reach me **shubhobanerjee100@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/15V8WORYkD9Im1qvdSbWqxWaST41BzRmf?usp=sharing](https://drive.google.com/file/d/13C2GBD3DB3ZPH_gt0f0Y89jGVvQxiquN/view?usp=sharing))
 
