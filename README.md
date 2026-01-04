@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently mastering **TypeScript, Next.js, REDUX & GraphQL**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kappa-virid-60.vercel.app/](https://portfolio-2025-one-self.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-2025-one-self.vercel.app/)
 
 - 💬 Ask me about **React.JS, Next.js**
 
